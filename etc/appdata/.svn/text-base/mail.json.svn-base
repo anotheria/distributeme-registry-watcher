@@ -1,0 +1,6 @@
+{
+	host: "mail.anotheria.net",
+	user: "registration@anotheria.net",
+	password: "llJa11!hgf",
+	debug: false
+}

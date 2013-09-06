@@ -1,0 +1,11 @@
+{
+	registryHost: "localhost",
+	registryPort: 9229,
+	connectTimeout: 15000,
+	readTimeout: 15000,
+	localPath: ".",
+	notificationRecepientEmail: "leon.rosenberg@anotheria.net",
+	notificationSenderEmail: "registry-watcher@anotheria.net",
+	diffStyle: "UNIFIED",
+	notificationSubject: "DistributeMe registry watcher notification"
+}
